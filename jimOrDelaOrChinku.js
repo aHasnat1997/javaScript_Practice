@@ -17,4 +17,4 @@ function jimOrDelaOrChinku ( marksOfJim, marksOfDela, marksOfChinku ) {
 
 }
 
-console.log(jimOrDelaOrChinku(84, 69, 97 ))
+console.log(jimOrDelaOrChinku(84, 69, 97 ));
